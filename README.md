@@ -36,5 +36,5 @@ The bat looks happy.
 The lion looks healthy.
 ```
 
-### [Stage 1 Solution](docs/zookeeper%20solutions.md)
+### [Stage 1 Solution](https://github.com/Lemon8z/Hyperskill-Kotlin/blob/abbfb7db57593906be598a3bac2df3df1a7f5431/Zookeeper%20Solutions)
 
