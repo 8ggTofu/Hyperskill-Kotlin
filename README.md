@@ -9,5 +9,3 @@ Learn Kotlin for free on Hyperskill by Jetbrains :sparkles:[here](https://hypers
 
 ###### Easy :wink: 
 1. Zookeeper
-
-# Zookeeper Project
