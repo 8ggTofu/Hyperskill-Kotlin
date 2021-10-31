@@ -36,3 +36,5 @@ The bat looks happy.
 The lion looks healthy.
 ```
 
+### [Solution](docs/zookeeper%20solutions.md)
+
