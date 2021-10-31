@@ -71,4 +71,4 @@ Your output should contain the following ASCII image:
            /_I      L_I   L_I     /_I
 Look at that! Our little camel is sunbathing!```
 
-### [Stage 2 Solution]
+### [Stage 2 Solution](https://github.com/Lemon8z/Hyperskill-Kotlin/blob/main/Zookeeper%20Stage%202%20Solutions)
