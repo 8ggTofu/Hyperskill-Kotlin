@@ -6,7 +6,7 @@ Learn Kotlin for free on Hyperskill by Jetbrains :sparkles:[here](https://hypers
 ## Kotlin Projects
 
 ###### Easy :wink: 
-1. Zookeeper
+1. [Zookeeper](#Zookeeper-Project)
 
 # Zookeeper Project
 
