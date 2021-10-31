@@ -11,7 +11,7 @@ Learn Kotlin for free on Hyperskill by Jetbrains :sparkles:[here](https://hypers
 # Zookeeper Project
 
 **Stages**  
-- [Stage 1/4: Rush into print](#Stage-1/4:-Rush-into-print  )
+- [Stage 1/4: Rush into print](#Stage1/4-Rush-into-print  )
 - Stage 2/4: Show me an animal!
 - Stage 3/4: What's inside?
 - Stage 4/4: Sustainable care <3
