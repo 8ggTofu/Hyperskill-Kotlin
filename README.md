@@ -14,7 +14,7 @@ Learn Kotlin for free on Hyperskill by Jetbrains :sparkles:[here](https://hypers
 |:---|:---:|
 |[Stage 1/4: Rush into print](#Stage-14-Rush-into-print  )|[Solution](#Stage-1-solution)|
 |[Stage 2/4: Show me an animal!](#Stage-24-show-me-an-animal)|[Solution](#Stage-2-solution)|
-|[Stage 3/4: What's inside?](Stage-34-whats-inside)|[Solution](#Stage-3-solution)|
+|[Stage 3/4: What's inside?](#Stage-34-whats-inside)|[Solution](#Stage-3-solution)|
 |Stage 4/4: Sustainable care <3|Solution|
 
 ## Stage 1/4: Rush into print  
