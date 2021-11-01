@@ -146,5 +146,5 @@ This bat looks like it's doing fine.
 You've reached the end of the program. To check another habitat, please restart the watcher.
 ```
 
-
+### [Stage 3 Solution]
 
