@@ -14,7 +14,7 @@ Learn Kotlin for free on Hyperskill by Jetbrains :sparkles:[here](https://hypers
 |:---|:---:|
 |[Stage 1/4: Rush into print](#Stage-14-Rush-into-print  )|[Solution](#Stage-1-solution)|
 |[Stage 2/4: Show me an animal!](#Stage-24-show-me-an-animal)|[Solution](#Stage-2-solution)|
-|Stage 3/4: What's inside?|Solution|
+|[Stage 3/4: What's inside?](Stage-34-what-s-inside)|Solution|
 |Stage 4/4: Sustainable care <3|Solution|
 
 ## Stage 1/4: Rush into print  
@@ -146,5 +146,5 @@ This bat looks like it's doing fine.
 You've reached the end of the program. To check another habitat, please restart the watcher.
 ```
 
-### [Stage 3 Solution]
+### [Stage 3 Solution](https://github.com/Lemon8z/Hyperskill-Kotlin/blob/main/Zookeeper%20Stage%203%20Solutions)
 
